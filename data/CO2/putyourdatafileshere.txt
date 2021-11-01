@@ -1,0 +1,4 @@
+# Links to data ressources
+
+- (https://gml.noaa.gov/ccgg/trends/)
+- (https://www.esrl.noaa.gov/gmd/dv/data/index.php?category=Greenhouse%2BGases&parameter_name=Carbon%2BDioxide&frequency=Monthly%2BAverages)
