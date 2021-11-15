@@ -1,4 +1,12 @@
 def fitting(data):
+    """
+    Linear fitting function for a given data set following the least squares method.
+    
+    Args: data is a list of lists of x and y values.
+    
+    Return: returns a list with entries being `a`, `b`, and `sigma2` from a linear fit.
+    
+    """
     n = len(data)
     if n <= 2: 
         print('Error! Not enough data!') 
